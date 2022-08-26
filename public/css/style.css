@@ -44,6 +44,10 @@ button {
     padding: 8px;
 }
 
+.about {
+    flex-grow: 1; 
+}
+
 footer{
     font-size: 18px;
     color: #9c9a9ac1;
